@@ -1,0 +1,2 @@
+# IllustPose_DatasetCriate
+IllustPose用のデータセットを作成するためのリポジトリです。
